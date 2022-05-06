@@ -11,6 +11,7 @@
   "devDependencies": {
     "@nrwl/cli": "13.10.4",
     "@nrwl/workspace": "13.10.4",
+    "@nx-dotnet/core": "^1.9.12",
     "@types/node": "16.11.7",
     "nx": "13.10.4",
     "nx-electron": "^13.0.0",
